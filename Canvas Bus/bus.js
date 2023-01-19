@@ -4,7 +4,6 @@ function InitFun(){
 
     var ctx = canvas.getContext("2d")
 
-    // Draw the bus body
     ctx.fillStyle = "gray";
     ctx.fillRect(50, 75, 150, 100);
 
